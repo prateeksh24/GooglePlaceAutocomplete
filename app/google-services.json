@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "79822301601",
+    "firebase_url": "https://placeautocomplete-204604.firebaseio.com",
+    "project_id": "placeautocomplete-204604",
+    "storage_bucket": "placeautocomplete-204604.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79822301601:android:6c2122d11b9ec883",
+        "android_client_info": {
+          "package_name": "prateek.placeautocomplete"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79822301601-7eson2trjh0j03alfbdalkv210cn36nv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "prateek.placeautocomplete",
+            "certificate_hash": "314bc4e620aac720403f854da70f92fc2a7f3b7f"
+          }
+        },
+        {
+          "client_id": "79822301601-penpcrp5vt49im1phjntu6ab85llgm2v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBenef9zacEaDE-kF7Y-5_o95F3XYV_0so"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79822301601-penpcrp5vt49im1phjntu6ab85llgm2v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
